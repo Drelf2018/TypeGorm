@@ -1,2 +1,3 @@
-# TypeGorm
- use gorm's DB anywhere
+# TypeGrom
+
+use gorm's DB anywhere
